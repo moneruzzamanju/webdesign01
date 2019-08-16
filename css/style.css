@@ -1,1 +1,24 @@
-2nd
+body {
+    background-color: rgb(16, 147, 190);
+    width: 90%;
+    margin: auto;
+  }
+  header{
+      height: 30px;
+      background-color: blue;
+      font-size: 25px;
+  }
+  
+  h1 {
+    color: white;
+    text-align: center;
+  }
+  
+  p {
+    font-family: verdana;
+    font-size: 20px;
+  }
+  footer{
+      height: 40px;
+      background-color: brown;
+  }
